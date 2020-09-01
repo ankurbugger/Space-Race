@@ -11,13 +11,13 @@
 <p>  Numpy</p><br>
 <p>  Matplotlib</p><br>
 <p>  seaborn</p>
-Steps What We have done in this  notebook.
-### #1.2  Read CSV Data 📝
-### #1.3 Data Pre-processing ⚙️
-# 2. Data Visualization 📉
-### #2.1 Space Company vs. # Launches
-### #2.2 Country vs. # Launches
-### #2.3 Launch Location vs. # Launches
-### #2.4 Rocket Status vs. Count
-### #2.5 Mission Status vs. Count
-### #2.6 Year vs. # Launches
+<h1>Steps What We have done in this notebook.</h1>
+1.1 Read CSV Data 📝</n>
+1.2 Data Pre-processing ⚙️
+2. Data Visualization 📉
+2.1 Space Company vs. # Launches
+2.2 Country vs. # Launches
+2.3 Launch Location vs. # Launches
+2.4 Rocket Status vs. Count
+2.5 Mission Status vs. Count
+2.6 Year vs. # Launches
