@@ -12,7 +12,7 @@
 <p>  Matplotlib</p><br>
 <p>  seaborn</p>
 <h1>Steps What We have done in this notebook.</h1>
-1.1 Read CSV Data 📝</n>
+1.1 Read CSV Data 📝<\n>
 1.2 Data Pre-processing ⚙️
 2. Data Visualization 📉
 2.1 Space Company vs. # Launches
